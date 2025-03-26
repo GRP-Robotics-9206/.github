@@ -5,7 +5,7 @@
 
 This is the Official Grand River Prep High School robotics github.
 
-If you have any questions feel free to leave a issue or a pull request with a comment indecating what you need help with.
+If you have any questions feel free to leave a issue or a pull request with a comment indicating what you need help with.
 
 ## Current Season: 2025 Reefscape
 
