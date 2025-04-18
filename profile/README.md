@@ -1,5 +1,5 @@
 > [!NOTE]
-> The 2025 Reefscape season is still active so code is subject to change.
+> The 2025 Reefscape season has ended! (For Us Atleast) See you next year!
 
 # GRP Robotics
 
@@ -7,13 +7,15 @@ This is the Official Grand River Prep High School robotics github.
 
 If you have any questions feel free to leave a issue or a pull request with a comment indicating what you need help with.
 
-## Current Season: 2025 Reefscape
+## Current Season: ???
 
-The current robotics season presented by **FIRST** is reefscape. (https://www.firstinspires.org/robotics/frc/game-and-season)
+The current robotics season presented by **FIRST** is ???. (https://www.youtube.com/watch?v=2AEdAID2U2o)
 
-The code for our personal robot can be found at https://github.com/GRP-Robotics-9206/robot-2025.
+
 
 ## Previous Seasons:
+
+2025: Reefscape presnented by **FIRST**, the code for the robot can be found here, https://github.com/GRP-Robotics-9206/robot-2025.
 
 2024: Cresendo presented by **FIRST**, the code for this robot can be found here, https://github.com/GRP-Robotics-9206/robot-2024.
 
