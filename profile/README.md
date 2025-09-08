@@ -1,5 +1,5 @@
 > [!NOTE]
-> The 2025 Reefscape season has ended! (For Us Atleast) See you next year!
+> The 2025 Reefscape season has ended! See you next year!
 
 # GRP Robotics
 
