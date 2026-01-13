@@ -1,5 +1,5 @@
 > [!NOTE]
-> The 2025 Reefscape season has ended! See you next year!
+> The 2026 Rebuilt season has started! See you on the field!
 
 # GRP Robotics
 
@@ -7,7 +7,7 @@ This is the Official Grand River Prep High School robotics github.
 
 If you have any questions feel free to leave a issue or a pull request with a comment indicating what you need help with.
 
-## Current Season: ???
+## Current Season: Rebuilt
 
 The current robotics season presented by **FIRST** is ???. (https://www.youtube.com/watch?v=2AEdAID2U2o)
 
