@@ -9,7 +9,7 @@ If you have any questions feel free to leave a issue or a pull request with a co
 
 ## Current Season: Rebuilt
 
-The current robotics season presented by **FIRST** is ???. (https://www.youtube.com/watch?v=2AEdAID2U2o)
+The current robotics season presented by **FIRST** is Rebuilt! (https://www.youtube.com/watch?v=_fybREErgyM&t=10s)
 
 
 
